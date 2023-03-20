@@ -1,7 +1,7 @@
 ![readme](https://user-images.githubusercontent.com/85186274/226274868-0c11fd0a-c530-4f4a-8564-307c7604e1b2.gif)
 # 🌈 Hey Profile Visitor 👀 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
-
+<!--
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=kshitij-100 alt=KshitijHadke/></p>
 <!--
 **kshitij-100/kshitij-100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
