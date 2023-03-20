@@ -1,4 +1,6 @@
+![readme](https://user-images.githubusercontent.com/85186274/226274868-0c11fd0a-c530-4f4a-8564-307c7604e1b2.gif)
 ### Hi there 👋
+
 
 <!--
 **kshitij-100/kshitij-100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
