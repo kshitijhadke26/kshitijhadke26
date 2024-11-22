@@ -1,6 +1,6 @@
 ![readme](https://user-images.githubusercontent.com/85186274/226274868-0c11fd0a-c530-4f4a-8564-307c7604e1b2.gif)
 # 🌈 Hey Profile Visitor 👀 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
----
+
 # 💫 About Me:
 Hi, I'm Kshitij, a third-year CSE student at Government College of Engineering, Jalgaon (GCoEJ), graduating in 2026. I'm a tech enthusiast and a Full Stack Developer with expertise in ReactJS, Django, and PHP.
 
