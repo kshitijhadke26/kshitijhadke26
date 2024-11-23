@@ -4,6 +4,15 @@
 # 💫 About Me:
 Hi, I'm Kshitij, a third-year CSE student at Government College of Engineering, Jalgaon (GCoEJ), graduating in 2026. I'm a tech enthusiast and a Full Stack Developer with expertise in ReactJS, Django, and PHP.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/kshitij-hadke/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitijhadke26" height="30" width="40" /></a>
+<a href="https://www.instagram.com/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kshitijhadke26" height="30" width="40" /></a>
+<a href="/Add your codechef profile URL here" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kshitijhadke26" height="30" width="40" /></a>
+<a href="/Add your codeForces profile URL here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kshitijhadke26" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/kshitij2608/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kshitijhadke26" height="30" width="40" /></a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitijhadke26@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HadkeKshitij) 
